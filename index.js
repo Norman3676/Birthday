@@ -1,5 +1,5 @@
-const contentLetterSrart_actived = "Gửi đến Nguyễn Thu Trang." //Lời mở đầu cho bức thư
-const mainContentLetter = "Hãy luôn luôn xinh đẹp , vui vẻ và hạnh phúc nhá." //Nội dung của bức thư
+const contentLetterSrart_actived = "Gửi đến Nguyễn Thuỳ Linh." //Lời mở đầu cho bức thư
+const mainContentLetter = "Chúc cho con đường phía trước luôn thuận lợi , thành công . Hãy luôn luôn xinh đẹp , vui vẻ và hạnh phúc nhá" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
